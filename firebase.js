@@ -7,7 +7,7 @@ const firebaseConfig = {
   authDomain: "<your-auth-domain>",
   projectId: "<projectId>",
   storageBucket: "<storageBucket>",
-  messagingSenderId: "364667044550",
+  messagingSenderId: "<messagingSenderId>",
   appId: "<app-id>"
 };
 
